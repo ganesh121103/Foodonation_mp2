@@ -52,7 +52,7 @@ if(isset($_POST['submit']))
     <div class="container">
         <div class="regformf" >
     <form action="" method="post">
-        <p class="logo">Food <b style="color: #06C167; ">Donate</b></p>
+    <div class="logo">Foo<b style="color: #ffa514;">D</b><b style="color: #06C167;">onation</b></div>
         
        <div class="input">
         <label for="foodname"  > Food Name:</label>
@@ -115,33 +115,15 @@ if(isset($_POST['submit']))
         <label for="location"></label>
         <label for="district">District:</label>
 <select id="district" name="district" style="padding:10px;">
-  <option value="chennai">Chennai</option>
-  <option value="kancheepuram">Kancheepuram</option>
-  <option value="thiruvallur">Thiruvallur</option>
-  <option value="vellore">Vellore</option>
-  <option value="tiruvannamalai">Tiruvannamalai</option>
-  <option value="tiruvallur">Tiruvallur</option>
-  <option value="tiruppur">Tiruppur</option>
-  <option value="coimbatore">Coimbatore</option>
-  <option value="erode">Erode</option>
-  <option value="salem">Salem</option>
-  <option value="namakkal">Namakkal</option>
-  <option value="tiruchirappalli">Tiruchirappalli</option>
-  <option value="thanjavur">Thanjavur</option>
-  <option value="pudukkottai">Pudukkottai</option>
-  <option value="karur">Karur</option>
-  <option value="ariyalur">Ariyalur</option>
-  <option value="perambalur">Perambalur</option>
-  <option value="madurai" selected>Madurai</option>
-  <option value="virudhunagar">Virudhunagar</option>
-  <option value="dindigul">Dindigul</option>
-  <option value="ramanathapuram">Ramanathapuram</option>
-  <option value="sivaganga">Sivaganga</option>
-  <option value="thoothukkudi">Thoothukkudi</option>
-  <option value="tirunelveli">Tirunelveli</option>
-  <option value="tiruppur">Tiruppur</option>
-  <option value="tenkasi">Tenkasi</option>
-  <option value="kanniyakumari">Kanniyakumari</option>
+  <option value="chennai">Satara</option>
+  <option value="kancheepuram">Patan</option>
+  <option value="thiruvallur">Wai</option>
+  <option value="vellore">Jaoli</option>
+  <option value="tiruvannamalai">Karad</option>
+  <option value="tiruvallur">Koregaon</option>
+  <option value="tiruppur">Mahabaleshwar</option>
+  <option value="coimbatore">Phaltan</option>
+  
 </select> 
 
         <label for="address" style="padding-left: 10px;">Address:</label>

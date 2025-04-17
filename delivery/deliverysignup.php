@@ -61,7 +61,7 @@ if(isset($_POST['sign']))
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Animated Login Form | CodingNepal</title>
+    <title> Login Form </title>
     <link rel="stylesheet" href="deliverycss.css">
   </head>
   <body>
@@ -85,35 +85,17 @@ if(isset($_POST['sign']))
           </div>
           <div class="">
                            <!-- <label for="district">District:</label> -->
-                           <select id="district" name="district" style="padding:10px; padding-left: 20px;">
-                          <option value="chennai">Chennai</option>
-                          <!-- <option value="kancheepuram">Kancheepuram</option>
-                          <option value="thiruvallur">Thiruvallur</option>
-                          <option value="vellore">Vellore</option>
-                          <option value="tiruvannamalai">Tiruvannamalai</option>
-                          <option value="tiruvallur">Tiruvallur</option>
-                          <option value="tiruppur">Tiruppur</option> -->
-                          <option value="coimbatore">Coimbatore</option>
-                          <!-- <option value="erode">Erode</option>
-                          <option value="salem">Salem</option>
-                          <option value="namakkal">Namakkal</option>
-                          <option value="tiruchirappalli">Tiruchirappalli</option>
-                          <option value="thanjavur">Thanjavur</option>
-                          <option value="pudukkottai">Pudukkottai</option>
-                          <option value="karur">Karur</option>
-                          <option value="ariyalur">Ariyalur</option>
-                          <option value="perambalur">Perambalur</option> -->
-                          <option value="madurai" selected>Madurai</option>
-                          <!-- <option value="virudhunagar">Virudhunagar</option>
-                          <option value="dindigul">Dindigul</option>
-                          <option value="ramanathapuram">Ramanathapuram</option>
-                          <option value="sivaganga">Sivaganga</option>
-                          <option value="thoothukkudi">Thoothukkudi</option>
-                          <option value="tirunelveli">Tirunelveli</option>
-                          <option value="tiruppur">Tiruppur</option>
-                          <option value="tenkasi">Tenkasi</option>
-                          <option value="kanniyakumari">Kanniyakumari</option> -->
-                        </select> 
+                           <select id="district" name="district" style="padding:10px;">
+  <option value="chennai">Satara</option>
+  <option value="kancheepuram">Patan</option>
+  <option value="thiruvallur">Wai</option>
+  <option value="vellore">Jaoli</option>
+  <option value="tiruvannamalai">Karad</option>
+  <option value="tiruvallur">Koregaon</option>
+  <option value="tiruppur">Mahabaleshwar</option>
+  <option value="coimbatore">Phaltan</option>
+  
+</select> 
                         
           </div>
           <br>

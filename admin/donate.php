@@ -81,14 +81,10 @@ if($_SESSION['name']==''){
                     <span class="link-name">Logout</span>
                 </a></li>
 
-                <li class="mode">
-                    <a href="#">
-                        <i class="uil uil-moon"></i>
-                    <span class="link-name">Dark Mode</span>
-                </a>
+                
 
                 <div class="mode-toggle">
-                  <span class="switch"></span>
+                  
                 </div>
             </li>
             </ul>
@@ -100,7 +96,7 @@ if($_SESSION['name']==''){
         <div class="top">
             <i class="uil uil-bars sidebar-toggle"></i>
             <!-- <p>Food Donate</p> -->
-            <p  class ="logo" >Food <b style="color: #06C167; ">Donate</b></p>
+            <div class="logo">Foo<b style="color: #ffa514;">D</b><b style="color: #06C167;">onation</b></div>
              <p class="user"></p>
             <!-- <div class="search-box">
                 <i class="uil uil-search"></i>
@@ -123,9 +119,9 @@ if($_SESSION['name']==''){
              <label for="location" class="logo">Select Location:</label>
              <!-- <br> -->
             <select id="location" name="location">
-               <option value="chennai">chennai</option>
-               <option value="madurai">madurai</option>
-               <option value="coimbatore">coimbatore</option>
+               <option value="chennai">satara</option>
+               <option value="madurai">karad</option>
+               <option value="coimbatore">wai</option>
         
             </select>
                 <input type="submit" value="Get Details">

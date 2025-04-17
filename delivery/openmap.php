@@ -43,7 +43,7 @@
   </head>
   <body>
   <header>
-        <div class="logo">Food <b style="color: #06C167;">Donate</b></div>
+        <div class="logo">Foo<b style="color: #ffa514;">D</b><b style="color: #06C167;">onation</b></div>
         <div class="hamburger">
             <div class="line"></div>
             <div class="line"></div>
